@@ -136,5 +136,9 @@ Reports on the progress of MAGeT brain and shows the number of remaining tasks.
 
 Starts the MAGeT brain pipeline. 
 
+## Tutorial
+
+For more in-depth information go to the [MAGeTbrain tutorial simplified pipeline](https://github.com/CobraLab/documentation/wiki/MAGeT-Brain) and the [MAGeTbrain morpho pipeline](https://github.com/CobraLab/documentation/wiki/MAGeT-Morph).
+
 ---
     http://tinysong.com/y9lO
